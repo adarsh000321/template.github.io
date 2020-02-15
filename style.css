@@ -42,7 +42,7 @@ header{/*transparent navbar*/
 	background: none;
 	/* position: absolute; */
 	width: 100%;
-	z-index: 2
+	/*z-index: 2*/
 }
 
 .back{
